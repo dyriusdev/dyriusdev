@@ -1,4 +1,8 @@
-## Hi there 👋
+
+### Hi I'm Richardson!
+
+👩‍💻 Software Developer sharing my journey and learnings!
+📚 Studing Computer Science at University of UNP, Brazil
 
 <!--
 **dyriusdev/dyriusdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
