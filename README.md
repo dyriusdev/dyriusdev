@@ -1,4 +1,4 @@
-[![My Favority](https://skillicons.dev/icons?i=linux,mint)](https://skillicons.dev)
+[![My Favority](https://skillicons.dev/icons?i=linux,mint)]
 # Hi i'm Richardson!
 
 👩‍💻 Software Developer sharing my journey and learnings!<br/>
@@ -10,7 +10,7 @@
 
 >## Stacks
 >### 💻 Languages
->[![My Skills](https://skillicons.dev/icons?i=java,js,c,cpp,cs,php,html,css,py,mysql,mongodb,django,flask,r,ruby,bash,bootstrap&perline=10)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=java,js,c,cpp,cs,php,html,css,py,mysql,mongodb,django,flask,r,ruby,bash,bootstrap&perline=10)]
 
 >### 🔧 Tools
->[![My Skills](https://skillicons.dev/icons?i=androidstudio,blender,cmake,eclipse,git,godot,idea,sublime,vscodium,wordpress&perline=5)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=androidstudio,blender,cmake,eclipse,git,godot,idea,sublime,vscodium,wordpress&perline=5)]
