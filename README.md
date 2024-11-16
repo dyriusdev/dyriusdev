@@ -12,7 +12,7 @@
 >![](https://skillicons.dev/icons?i=java,js,c,cpp,cs,php,html,css,py,mysql,mongodb,r,ruby,bash,bootstrap&perline=10)
 
 >### ⚙️ Frameworks
->![](https://skillicons.dev/icons?i=django,flask,gtk,nodejs,qt,react&perline=10)
+>![](https://skillicons.dev/icons?i=django,flask,gtk,nodejs,qt,react,rails,sqlite&perline=10)
 
 >### 🔧 Tools
->![](https://skillicons.dev/icons?i=androidstudio,blender,cmake,eclipse,git,godot,idea,sublime,vscodium,wordpress&perline=5)
+>![](https://skillicons.dev/icons?i=androidstudio,blender,cmake,eclipse,git,godot,idea,sublime,wordpress&perline=5)
