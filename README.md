@@ -5,7 +5,7 @@
 📚 Studying Computer Science at University of UNP, Brazil<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=dyriusdev&show_icons=true&theme=midnight-purple)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyriusdev&theme=midnight-purple&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20)](https://github.com/dyriusdev/github-readme-stats)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyriusdev&theme=midnight-purple&layout=donut&size_weight=0.25&count_weight=0.25&langs_count=20)](https://github.com/dyriusdev/github-readme-stats)<br/>
 
 >## Stacks
 >### 💻 Languages
